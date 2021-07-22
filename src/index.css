@@ -100,23 +100,3 @@ main, .site-content {
   padding: 30px 20px;
 }
 
-.block {
-  position: relative;
-  padding: 20px 15px 20px 20px;
-  border: 1px solid #747474;
-  border-top: 1px solid #487922;
-  background: #ededed;
-  margin: 20px;
-}
-
-.block div {
-  margin-bottom: 20px;
-}
-
-.calc-res {
-  font-size: 1.2rem;
-}
-  
-.calc-res li {
-  margin: 10px 0;
-}
