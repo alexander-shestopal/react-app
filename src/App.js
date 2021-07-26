@@ -32,6 +32,7 @@ class App  extends React.Component {
           this.setState({ date: element.exchangedate });
           }         
         });
+      
 
       } 
       console.log(result);

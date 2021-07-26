@@ -17,7 +17,7 @@ class Rate extends React.Component {
               <div className="block flex-item" key={keyName}>
                 <div className="currency-name">{keyName}</div>
                 <div className="currency-in">{this.props.rate[keyName].toFixed(2)}*</div>
-                <p> * Можно купить за 1 EUR</p>
+                <p> * Можно купить гривен за 1 {keyName}</p>
               </div>
             )
           )}

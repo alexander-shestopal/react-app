@@ -19,3 +19,22 @@
 .calc-res li {
   margin: 10px 0;
 }
+.div1{    
+    width: 50%;
+    min-height: 150px;
+    background: #ccc;
+    float: left;
+}
+.div2{    
+    width: 50%;
+    min-height: 150px;
+  border: 1px solid #747474;
+
+  background: #ededed;
+
+    margin-left: 50%;
+}
+.div2 .h4 {
+    margin: 10px;
+
+}
